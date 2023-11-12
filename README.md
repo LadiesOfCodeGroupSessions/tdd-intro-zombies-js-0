@@ -6,6 +6,9 @@ Setup:
 
 Install node: https://nodejs.org/en/download
 
+Run tests:
+`npm test`
+
 ## The Kata
 ### Zombie Survivor Kata
 Source: https://github.com/ardalis/kata-catalog
